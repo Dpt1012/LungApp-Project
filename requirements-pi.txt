@@ -1,0 +1,5 @@
+--extra-index-url https://www.piwheels.org/simple
+
+-r requirements-common.txt
+torch
+torchvision

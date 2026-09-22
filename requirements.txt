@@ -1,0 +1,3 @@
+# Default install target is Windows/PC CPU.
+# Raspberry Pi / Linux ARM: use requirements-pi.txt instead.
+-r requirements-windows.txt

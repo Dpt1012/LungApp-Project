@@ -1,0 +1,8 @@
+--index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://pypi.org/simple
+
+-r requirements-common.txt
+flet[desktop]==0.86.0
+flet-audio-recorder==0.86.0
+torch
+torchvision
